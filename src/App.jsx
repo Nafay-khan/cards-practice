@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import Navbar from './assets/components/Navbar'
 import Card from './assets/components/Card'
 import axios from 'axios'
-
+//react app for cards props 
 function App() {
     const [products, setProducts] = useState(null);
 
